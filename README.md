@@ -1,1 +1,0 @@
-# https-github.com-m24ds001-A-Hybrid-Rule-Based-Architecture-for-Multi-Source-Credibility.
