@@ -1,4 +1,4 @@
-# HCRA Financial Dataset
+# CreditTrust Financial Dataset
 
 This repository contains the curated multi-source financial dataset
 used in the manuscript submitted to *Expert Systems (Wiley)*.
